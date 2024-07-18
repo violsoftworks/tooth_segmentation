@@ -1,0 +1,8 @@
+path: C:\\Users\\AMET\\DocGaid\\yolov8\\data\\single_tooth
+train: images\\train
+val: images\\val
+
+nc: 1
+names:
+  0: '0'
+
